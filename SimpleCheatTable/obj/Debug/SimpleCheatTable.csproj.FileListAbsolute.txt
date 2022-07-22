@@ -1,0 +1,14 @@
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\bin\Debug\SimpleCheatTable.exe.config
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\bin\Debug\SimpleCheatTable.exe
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\bin\Debug\SimpleCheatTable.pdb
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\obj\Debug\SimpleCheatTable.csproj.AssemblyReference.cache
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\obj\Debug\SimpleCheatTable.SimpleCheatTable.resources
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\obj\Debug\SimpleCheatTable.Properties.Resources.resources
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\obj\Debug\SimpleCheatTable.csproj.GenerateResource.cache
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\obj\Debug\SimpleCheatTable.csproj.CoreCompileInputs.cache
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\obj\Debug\SimpleCheatTable.exe
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\obj\Debug\SimpleCheatTable.pdb
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\bin\Debug\NiNoKuni.sct
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\bin\Debug\Memory.dll
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\bin\Debug\Memory.xml
+C:\Users\IRSYAD\source\repos\SimpleCheatTable\SimpleCheatTable\obj\Debug\SimpleCheatTable.csproj.CopyComplete

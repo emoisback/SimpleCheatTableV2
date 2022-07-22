@@ -1,0 +1,7 @@
+﻿ProcessName=ProjectN-Win64-Shipping.exe
+Attack Speed=ProjectN-Win64-Shipping.exe+063818E8,0,20,804=int=10000
+Speedhack=ProjectN-Win64-Shipping.exe+063818E8,0,20,98=float=1
+Move Speed=ProjectN-Win64-Shipping.exe+063818E8,0,20,288,18C=float=650
+Jump Height=ProjectN-Win64-Shipping.exe+063818E8,0,20,288,158=float=500
+Multi Jump=ProjectN-Win64-Shipping.exe+063818E8,0,20,344=int=10
+Attack Skip=ProjectN-Win64-Shipping.exe+060FEB70,18,20,0,20=int=0
